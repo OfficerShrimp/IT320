@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Google</title>
+  <meta charset="utf-8">
+  <style>
+    img {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 225px ;
+
+    }
+
+
+    .bar {
+
+      
+      text-align: center;
+      display: block;
+      margin-right: 0 auto;
+      margin-left: 0 auto;
+      padding-bottom: 20px;
+      
+      
+      
+
+    }
+
+    .buttons {
+      
+      
+      text-align: center;
+      display: block;
+      margin-right: 0 auto;
+      margin-left: 0 auto;
+      padding-bottom: 20px;
+
+
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div>
+    <img src="https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw" width="25%">
+  </div>
+  <div class="bar">
+    <input type="text" size="60" >
+  </div>
+  <div class="buttons">
+    <input type="submit" value="Google search">
+    <input type="submit" value="I'm feeling lucky!">
+    
+  </div>
+
+</body>
+
+
+</html>
