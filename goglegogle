@@ -19,7 +19,6 @@
     input[type="text"] {
 
       display: block;
-      text-align: center;
       box-sizing: border-box;
       margin-right:  auto;
       margin-left:  auto;
